@@ -7,6 +7,7 @@ tags:
   - OSS
 categories: '-OSS,CDN'
 abbrlink: 7d87ea3f
+feature: true
 date: 2020-07-15 17:30:00
 ---
 # 阿里云 CDN + OSS 解决方案

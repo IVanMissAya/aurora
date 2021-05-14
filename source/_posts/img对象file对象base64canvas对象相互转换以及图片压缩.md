@@ -6,6 +6,7 @@ tags:
   - JavaScript
 categories: '-JavaScript'
 abbrlink: b7bc5b86
+feature: true
 date: 2021-03-13 18:00:00
 ---
 # img 对象，file 对象，base64，canvas 对象相互转换以及图片压缩

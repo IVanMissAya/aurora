@@ -6,6 +6,7 @@ tags:
   - 小程序
 categories: '-小程序 -Echarts'
 abbrlink: 3140581a
+feature: true
 date: 2020-06-06 17:30:00
 ---
 # 微信小程序使用ECharts绘制水波图
