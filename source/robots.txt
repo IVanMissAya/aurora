@@ -1,0 +1,23 @@
+# welcome to : www.ivan.fun
+# 允许所有用户代理的浏览器爬虫进行访问（爬起数据）
+User-agent: *
+
+# 允许访问的内容
+Allow: /
+Allow: /post/
+Allow: /message-board/
+Allow: /about/
+
+# 不允许访问的内容
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /music/
+Disallow: /css/
+
+Disallow: /*.js
+Disallow: /*.css
+
+Sitemap: https://www.ivan.fun/sitemap.xml
+Sitemap: https://www.ivan.fun/baidusitemap.xml
