@@ -12,7 +12,7 @@ language: cn
 timezone: ""
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project' 
 url: https://www.ivan.fun
 permalink: /post/:title.html
 permalink_defaults:
@@ -105,3 +105,9 @@ deploy:
   type: git #用户名
   repo: git@47.98.131.22:/git/repos/aurora.git #git仓库地址
   branch: master #分支
+
+sitemap:
+  path: sitemap.xml
+
+baidusitemap:
+  path: baidusitemap.xml
