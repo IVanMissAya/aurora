@@ -20,10 +20,10 @@ site:
   avatar: https://static.ivan.fun/blog/avatar.png
   beian:
     number: "粤ICP备19001635号"
-    link: ""
+    link: "https://beian.miit.gov.cn/"
   police_beian:
     number: "粤ICP备19001635号"
-    link: ""
+    link: "https://beian.miit.gov.cn/"
 
 #! ---------------------------------------------------------------
 #! Authors Configs
